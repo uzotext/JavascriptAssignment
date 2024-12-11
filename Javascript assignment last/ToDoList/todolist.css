@@ -1,0 +1,41 @@
+body {
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(223, 231, 238);
+    
+}
+#formdv {
+    margin-bottom: 20px;
+}
+.error {
+    color: rgb(228, 67, 67);
+    font-size: 19px;
+    margin-top: 7px;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f9f9f9f6;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin: 6px 0;
+    padding: 13px;
+    
+}
+
+.completed {
+    text-decoration: line-through;
+    color: rgb(145, 111, 111);
+} 
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+button {
+    margin-left: 14px;
+}
+ 
